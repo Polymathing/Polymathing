@@ -1,4 +1,4 @@
-![Howdy partner 👋]
+Howdy partner 👋
 
 
 **Welcome to my GitHub page!**
