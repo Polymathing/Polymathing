@@ -1,4 +1,4 @@
-### Howdy partner ✌️, I'm Maicon :man
+### Howdy partner, I'm Maicon ✌️:man_technologist:
 
 :scientist::books: As a graduate student in Data Science and an AI aficionado, my raison d'être is to help people live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects, learning something new every day! "Little by little a little becomes a lot!"  
 
