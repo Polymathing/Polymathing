@@ -1,6 +1,6 @@
 ### Howdy partner ✌️, I'm Maicon :man
 
-:scientist::books: As a graduate student in Data Science and an AI aficionado, my raison d'être is to help people to live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects. 
+:scientist::books: As a graduate student in Data Science and an AI aficionado, my raison d'être is to help people to live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects, learning something new every day! "Little by little a little becomes a lot!"  
 
 🌎 Let's create a better world through AI, one bit at a time! =)
 
