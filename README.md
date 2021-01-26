@@ -1,10 +1,11 @@
-Howdy partner 👋
+### Howdy partner 👋, my name is Maicon
 
+As a graduate student in Data Science and an AI aficionado, my raison d'être is to help people to live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects. 
 
-**Welcome to my GitHub page!**
+🌎 Let's create a better world through AI, one bit at a time! =)
 
-I am a graduate student in Data Science, and as an AI aficionado my raison d'être is to help people to get a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects. 
+Skills: PYTHON / ML / DEEP LEARNING / SQL / TEBLEAU
 
-Connect with me on LinkdIn:
+Connect with me:
 
-<a href="https://www.linkedin.com/in/maiconr/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maiconr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maiconrodrigues.net/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://polymathing.github.io/Maicon_Portfolio/)  
