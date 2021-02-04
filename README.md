@@ -1,10 +1,6 @@
 ### Howdy partner, I'm Maicon ✌️:man_technologist:
 
-:scientist::books: As a graduate student in Data Science and an AI aficionado, my raison d'être is to help people live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects, learning something new every day! "Little by little a little becomes a lot!"  
-
-🌎 Let's create a better world through AI, one bit at a time! =)
-
-Skills: PYTHON / ML / DEEP LEARNING / SQL / TEBLEAU
+:scientist::books: As a graduate student and programming aficionado, my raison d'être is to help people live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects. Currently I am learning HTML5, CSS and JavaScript! "Little by little a little becomes a lot!"  
 
 Connect with me:
 
