@@ -2,9 +2,9 @@
 
 :scientist::books: As a graduate student and programming aficionado, my raison d'être is to help people live a better life through technology! I've been working mainly on Machine Learning and Deep Learning projects. Currently I am learning HTML5, CSS and JavaScript. "Little by little a little becomes a lot!"  
 
-Check out my portfolio:
+Check out my latest project:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://polymathing.github.io/Maicon_Portfolio/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Polymathing/Bootstrap-Practice-Tindog)  
 
 Connect with me:
 
