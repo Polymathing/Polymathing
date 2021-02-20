@@ -4,7 +4,7 @@
 
 Check out my latest project:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Polymathing/Bootstrap-Practice-Tindog)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://polymathing.github.io/Drum-Kit/)  
 
 Connect with me:
 
