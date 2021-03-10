@@ -28,7 +28,7 @@
 <h2 align="center">Check out my latest project</h2>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/Polymathing/Simon-Game">
+  <a target="_blank" href="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
 </p>
