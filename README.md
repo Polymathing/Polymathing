@@ -1,6 +1,9 @@
 ### Howdy partner, I'm Maicon ✌️:man_technologist:
 
-<p align="center"> I'm currently a graduate student in Software Engineering at Univali, in Itajaí. Solving problems is my passion, and Software Engineering, AI and Networks are things that make my eyes sparkle. I'm extremely disciplined and I do love teamwork. Please, feel free to contact me any time. </p>
+
+<h1 align="center"> Hi there, I'm Maicon. 👋 </h1>
+
+<p align="center">I'm currently a graduate student in Software Engineering at Univali, in Itajaí. Solving problems is my passion, and Software Engineering, AI and Networks are things that make my eyes sparkle. I'm extremely disciplined and I do love teamwork. Please, feel free to contact me any time.</p>
 
 <br>
 
@@ -32,3 +35,18 @@ Check out my latest project:
 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maiconr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maiconrodrigues.net/)
+
+<h2 align="center">Get in touch:</h2>
+
+
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/maiconr">
+<img src="https://img.shields.io/badge/-lucasbivar-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbivar" alt="Linkedin Badge">
+</a>
+<a target="_blank" href="mailto:maiconrodriguessc@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-black?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:maiconrodriguessc@gmail.com" alt="Email Badge">
+</a>
+
+</p>
+
+<br>
