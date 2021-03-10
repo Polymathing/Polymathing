@@ -28,13 +28,11 @@
 <br>
   
 
-Check out my latest project:
+<h2 align="center">Check out my latest project</h2>
 
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Polymathing/Simon-Game)  
-
-Connect with me:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maiconr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maiconrodrigues.net/)
+</p>
 
 <h2 align="center">Get in touch:</h2>
 
