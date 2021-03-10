@@ -1,6 +1,3 @@
-### Howdy partner, I'm Maicon ✌️:man_technologist:
-
-
 <h1 align="center"> Hi there, I'm Maicon. 👋 </h1>
 
 <p align="center">I'm currently a graduate student in Software Engineering at Univali, in Itajaí. Solving problems is my passion, and Software Engineering, AI and Networks are things that make my eyes sparkle. I'm extremely disciplined and I do love teamwork. Please, feel free to contact me any time.</p>
@@ -31,7 +28,9 @@
 <h2 align="center">Check out my latest project</h2>
 
 <p align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Polymathing/Simon-Game)  
+  <a target="_blank" href="https://github.com/Polymathing/Simon-Game">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
 </p>
 
 <h2 align="center">Get in touch:</h2>
