@@ -25,7 +25,7 @@
 <br>
   
 
-<h2 align="center">Check out my latest project</h2>
+<h2 align="center">Check out my latest project:</h2>
 
 <p align="center">
   <a target="_blank" href="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp">
