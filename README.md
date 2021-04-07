@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Maicon. 👋 </h1>
 
-<p align="center">I'm currently a graduate student in Software Engineering at Univali, in Itajaí. Solving problems is my passion, and Software Engineering, AI and Networks are things that make my eyes sparkle. I'm extremely disciplined and I do love teamwork. Please, feel free to contact me any time.</p>
+<p align="center">I'm currently a graduate student in Software Engineering at Univali, in Itajaí. Problem solvinm is my passion, and Software Engineering, AI and Networks are things that make my eyes sparkle. I'm extremely disciplined and I do love teamwork. Please, feel free to contact me any time.</p>
 
 <br>
 
